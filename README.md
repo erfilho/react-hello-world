@@ -1,2 +1,2 @@
-# react-hello-world
+# Meu App
 Meu primeiro aplicativo utilizando React
